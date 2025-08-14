@@ -41,10 +41,6 @@ The platform has **four panels**, each with specific functionalities:
 
 ---
 
-## Screenshots
-*(Optional: Add screenshots of your homepage, podcast page, blog page, and admin panel here)*
-
----
 
 ## Getting Started
 
